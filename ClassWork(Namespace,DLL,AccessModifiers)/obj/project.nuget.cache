@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LeV9WVQnDXynujPHzwjq4NCTPnKRvjDcnKDjqu1Q3A+vg6GIBI1GvS4NyYuWo0qysAyDIBAD0oLClvij896IKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\CodeHomeWork1\\ClassWork(Namespace,DLL,AccessModifiers)\\ClassWork(Namespace,DLL,AccessModifiers)\\ClassWork(Namespace,DLL,AccessModifiers).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

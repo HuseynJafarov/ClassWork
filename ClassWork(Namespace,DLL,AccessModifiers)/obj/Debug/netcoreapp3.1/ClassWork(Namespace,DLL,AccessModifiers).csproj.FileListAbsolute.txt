@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\obj\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\obj\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\obj\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\obj\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\obj\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\bin\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).exe
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\bin\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).deps.json
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\bin\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).runtimeconfig.json
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\bin\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).runtimeconfig.dev.json
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\bin\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).dll
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\bin\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).pdb
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\obj\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).dll
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\obj\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).pdb
+C:\Users\HP\Desktop\CodeHomeWork1\ClassWork(Namespace,DLL,AccessModifiers)\ClassWork(Namespace,DLL,AccessModifiers)\obj\Debug\netcoreapp3.1\ClassWork(Namespace,DLL,AccessModifiers).genruntimeconfig.cache
